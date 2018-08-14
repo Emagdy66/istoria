@@ -1,0 +1,21 @@
+body {
+  background-image:
+url("../images/pew.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size : cover;}
+    )
+}
+h1 {
+  color: black;
+}
+p {
+  color: purple;
+}
+ul {
+  color: purple;
+}
+h3 {
+  color: black;
+}
